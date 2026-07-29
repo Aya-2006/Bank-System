@@ -86,6 +86,16 @@ Some possible improvements include:
 - Online banking features
 - Better reporting and statistics
 
+## Build & Run
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+./bank_system
+```
+
 ## What I Learned
 
 This project gave me practical experience in building a medium-sized software application. I improved my understanding of C++, object-oriented programming, database integration, software architecture, Git, and clean code organization.
