@@ -1,5 +1,5 @@
 ## Bank System
-#### Video Demo:  (https://www.youtube.com/watch?v=n8biUD9yHbk&list=PLaSv2mKcsbpDBS0pJSbA_Wt4_kFDai-4w&index=3)
+#### Video Demo:  https://youtu.be/vAYMLQodY7M
 #### Description:
 A simple Bank Management System built with C++, following OOP and SOLID Principles, with PostgreSQL as the database.
 
